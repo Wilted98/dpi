@@ -1,5 +1,5 @@
 import './App.css'
-import QuizGame from './QuizGame'
+import QuizGame from './QuizGame.jsx'
 
 function App() {
 
