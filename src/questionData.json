@@ -1,0 +1,1584 @@
+[
+    {
+      "question_number": 1,
+      "question_text": "Dreptul de proprietate intelectuala reglementeaza:",
+      "options": {
+        "A": "raporturile sociale legate de creatia intelectuala si rezultatele ei sub cele mai variate forme",
+        "B": "raporturile sociale legate de proprietatea literara si artistica",
+        "C": "raporturile sociale legate de proprietatea industriala"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Natura juridica a dreptului de proprietate intelectuala este:",
+      "options": {
+        "A": "un drept de proprietate",
+        "B": "un drept distinct ce formeaza o categorie speciala, bucurandu-se de attribute morale si patrimoniale",
+        "C": "un drept personal nepatrimonial",
+        "D": "un drept real"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Care sunt principiile dreptului proprietatii intelectuale:",
+      "options": {
+        "A": "principiul tratamentului national, ,principiul dreptului de prioritate, principiul independentei brevetelor",
+        "B": "principiul tratamentului national, ,principiul dreptului de prioritate, principiul independentei brevetelor principiul independentei marcilor",
+        "C": "principiul oficialitatii, principiul tratamentului national, ,principiul dreptului de prioritate, principiul independentei brevetelor"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Potrivit principiului tratamentului national:",
+      "options": {
+        "A": "cetatenii oricarei tari care face parte din Uniunea de la Paris sau Uniunea de la Berna vor beneficia de aceeasi protectie ca si nationalii din celelalte tari membre",
+        "B": "cetatenii oricarei tari care este membra a Organizatiei Mondiale a Proprietatii Intelectuale vor beneficia de drepturi egale",
+        "C": "cetatenii unei tari se bucura de aceeasi protectie si in afara teritoriului tarii respective"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Prin drept de prioritate se intelege :",
+      "options": {
+        "A": "situatia privilegiata a unei persoane care a efectuat intr-o tara a Uniunii de la Paris un prim depozit reglementar, de a depune cereri cu acelasi obiect pentru a obtine protectie in celelalte tari membre ale Uniunii.",
+        "B": "situatia privilegiata a unei persoane care a efectuat in tara sa de origine un prim depozit reglementar, de a depune cereri cu acelasi obiect pentru a obtine protectie in celelalte tari membre ale Uniunii",
+        "C": "dreptul persoanei care in tara sa de origine a efectuat un depozit reglementar, de a depune cereri cu acelasi obiect pentru a obtine protectie in orice alta tara"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Primul depozit se poate efectua :",
+      "options": {
+        "A": "in tara de origine a resortisantului",
+        "B": "in orice tara membra a Uniunii",
+        "C": "in tara de origine a resortisantului sau in orice tara membra a Uniunii"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Soarta ulterioara a primului depozit :",
+      "options": {
+        "A": "influenteaza existenta dreptului de prioritate.",
+        "B": "nu influenteaza existenta dreptului de prioritate",
+        "C": "poate influenta existenta dreptului de prioritate"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Potrivit principiul independentei brevetelor",
+      "options": {
+        "A": "acordarea unui brevet de inventie intr-o tara obliga o alta tara sa acorde brevet pentru aceeasi inventie",
+        "B": "brevetul de inventie nu poate fi refuzat sau invalidat in oricare tara membra pe motiv ca un brevet pentru aceeasi inventie a fost refuzat sau invalidat in o alta tara.",
+        "C": "brevetele obtinute in diferitele tari ale Uniunii cu beneficiul prioritatii nu vor avea aceeasi durata cu aceea pe care ar fi avut-o daca ar fi fost cerute si eliberate fara beneficiul prioritatii"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Potrivit principiului independentei marcilor",
+      "options": {
+        "A": "daca in tara de origine este prevazuta obligatia de reinnoire a inregistrarii unei marci, acest lucru da nastere la o obligatie de reinnoire a inregistrarii efectuate intr-o alta tara a Uniunii, in care a fost inregistrata marca.",
+        "B": "o marca depusa de un resortisant al unei tari a Uniuniide la Paris va putea fi refuzata sau invalidata pentru motivul ca a fost depusa, inregistrata sau reinnoita in tara de origine",
+        "C": "dupa inregistrarea unei marci intr-o tara a Uniunii de la Paris, aceasta nu mai depinde de marca de origine ori de marcile inregistrate in celelalte tari ale Uniunii."
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Pot constitui obiect al dreptului de autor:",
+      "options": {
+        "A": "operele literare",
+        "B": "desenele industriale",
+        "C": "textele legislative"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Natura juridica a dreptului de proprietate intelectuala este:",
+      "options": {
+        "A": "un drept de proprietate",
+        "B": "un drept distinct ce formeaza o categorie speciala, bucurandu-se de attribute morale si patrimoniale",
+        "C": "un drept personal nepatrimonial",
+        "D": "un drept rea"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Care sunt principiile dreptului proprietatii intelectuale:",
+      "options": {
+        "A": "principiul tratamentului national, ,principiul dreptului de prioritate, principiul independentei brevetelor",
+        "B": "principiul tratamentului national, ,principiul dreptului de prioritate, principiul independentei brevetelor principiul independentei marcilor",
+        "C": "principiul oficialitatii, principiul tratamentului national, ,principiul dreptului de prioritate, principiul independentei brevetelor"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Potrivit principiului tratamentului national:",
+      "options": {
+        "A": "cetatenii oricarei tari care face parte din Uniunea de la Paris sau Uniunea de la Berna vor beneficia de aceeasi protectie ca si nationalii din celelalte tari membre",
+        "B": "cetatenii oricarei tari care este membra a Organizatiei Mondiale a Proprietatii Intelectuale vor beneficia de drepturi egale",
+        "C": "cetatenii unei tari se bucura de aceeasi protectie si in afara teritoriului tarii respective"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Prin drept de prioritate se intelege :",
+      "options": {
+        "A": "situatia privilegiata a unei persoane care a efectuat intr-o tara a Uniunii de la Paris un prim depozit reglementar, de a depune cereri cu acelasi obiect pentru a obtine protectie in celelalte tari membre ale Uniunii.",
+        "B": "situatia privilegiata a unei persoane care a efectuat in tara sa de origine un prim depozit reglementar, de a depune cereri cu acelasi obiect pentru a obtine protectie in celelalte tari membre ale Uniunii",
+        "C": "dreptul persoanei care in tara sa de origine a efectuat un depozit reglementar, de a depune cereri cu acelasi obiect pentru a obtine protectie in orice alta tara"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Primul depozit se poate efectua :",
+      "options": {
+        "A": "in tara de origine a resortisantului",
+        "B": "in orice tara membra a Uniunii",
+        "C": "in tara de origine a resortisantului sau in orice tara membra a Uniunii"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Soarta ulterioara a primului depozit :",
+      "options": {
+        "A": "influenteaza existenta dreptului de prioritate.",
+        "B": "nu influenteaza existenta dreptului de prioritate",
+        "C": "poate influenta existenta dreptului de prioritate"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Potrivit principiul independentei brevetelor",
+      "options": {
+        "A": "acordarea unui brevet de inventie intr-o tara obliga o alta tara sa acorde brevet pentru aceeasi inventie",
+        "B": "brevetul de inventie nu poate fi refuzat sau invalidat in oricare tara membra pe motiv ca un brevet pentru aceeasi inventie a fost refuzat sau invalidat in o alta tara.",
+        "C": "brevetele obtinute in diferitele tari ale Uniunii cu beneficiul prioritatii nu vor avea aceeasi durata cu aceea pe care ar fi avut-o daca ar fi fost cerute si eliberate fara beneficiul prioritatii"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Potrivit principiului independentei marcilor",
+      "options": {
+        "A": "daca in tara de origine este prevazuta obligatia de reinnoire a inregistrarii unei marci, acest lucru da nastere la o obligatie de reinnoire a inregistrarii efectuate intr-o alta tara a Uniunii, in care a fost inregistrata marca.",
+        "B": "o marca depusa de un resortisant al unei tari a Uniuniide la Paris va putea fi refuzata sau invalidata pentru motivul ca a fost depusa, inregistrata sau reinnoita in tara de origine",
+        "C": "dupa inregistrarea unei marci intr-o tara a Uniunii de la Paris, aceasta nu mai depinde de marca de origine ori de marcile inregistrate in celelalte tari ale Uniunii."
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Pot constitui obiect al dreptului de autor:",
+      "options": {
+        "A": "operele literare",
+        "B": "desenele industriale",
+        "C": "textele legislative"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Operele compozite sunt:",
+      "options": {
+        "A": "opere ce au fost create plecandu-se de la opere preexistente",
+        "B": "opere ce includ in ele alte opere preexistente",
+        "C": "opera create prin contributia comuna a mai multor persoane"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Nu fac obiectul protectiei in cazul dreptului de autor :",
+      "options": {
+        "A": "adnotarile",
+        "B": "descoperirile stiintifice",
+        "C": "traducerile"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Potrivit Legii nr. 8/1996 o opera de creatie este protejata :",
+      "options": {
+        "A": "numai daca are o mare insemnatate nationala",
+        "B": "numai daca face parte din patrimoniul cultural national",
+        "C": "indiferent de valoarea acesteia"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Drepturile morale ale autorului sunt:",
+      "options": {
+        "A": "sunt absolute",
+        "B": "sunt sesizabile",
+        "C": "sunt prescriptibile"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Dreptul la nume inseamna:",
+      "options": {
+        "A": "dreptul de a pretinde recunoasterea calitatii de autor",
+        "B": "dreptul de a decide sub ce nume va fi adusa opra la cunostinta publica",
+        "C": "dreptul de a pretinde respectarea integritatii operei si de a se opune oricarei modificari sau atingeri aduse operei, daca prejudiciaza onoarea sau reputatia sa"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Proprietarul sau posesorul operei de arta :",
+      "options": {
+        "A": "este obligat sa permita autorului accesul la opera sa",
+        "B": "nu are obligatia de a pune opra la dispozitia autorului",
+        "C": "are dreptul sa distruga opera , fara a fi obligat sa o ofere mai intai autorului"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Drepturile patrimoniale sunt:",
+      "options": {
+        "A": "drepturi transmisibile",
+        "B": "opozabile imprescriptibile",
+        "C": "insesizabile"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Potrivit Conventiei de la Berna , durata minima de protectie a dreptului de autor este:",
+      "options": {
+        "A": "50 de ani dupa decesul autorului",
+        "B": "70 de ani dupa decesul autorului",
+        "C": "20 de ani dupa decesul autorului"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 19,
+      "question_text": "Drepturile patrimoniale apartinand autorului sunt protejate potrivit legislatiei romane :",
+      "options": {
+        "A": "de la crearea operei pe toata durata vietii autorului plus o durata de 70 de ani dupa moartea acestuia",
+        "B": "de la publicarea operei pe toata durata vietii autorului plus o durata de 70 de ani dupa moartea acestuia",
+        "C": "pe o perioada de 70 de ani de la aducerea operei la cunostinta publica"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 20,
+      "question_text": "Contractul de cesiune a drepturilor de autor este:",
+      "options": {
+        "A": "un mod de transmitere a acestor drepturi",
+        "B": "un mod de transformare a acestor drepturi",
+        "C": "un mod de stingere a acestor drepturi"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 21,
+      "question_text": "In cazul unui contrac de cesiune exclusiva a drepturilor de autor:",
+      "options": {
+        "A": "titularul sau autorul nu mai poate folosi opera el insusi",
+        "B": "titularul sau autorul poate transmite spre utilizare opera altor persoane",
+        "C": "titulari ai drepturilor sunt atat cedentul , cat si cesionarul dobanditor al drepturilor transmise."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 22,
+      "question_text": "Contractul de cesiune a drepturilor de autor :",
+      "options": {
+        "A": "se incheie in forma scrisa ad validitatem",
+        "B": "se incheie in forma autentica sub sanctiunea nulitatii",
+        "C": "se incheie in forma scrisa ad probationem"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 23,
+      "question_text": "Daca in contractul de cesiune a drepturilor de autor nu s-a prevazut remuneratia cuvenita titularului dreptului de autor, se poate solicita:",
+      "options": {
+        "A": "anularea contractului",
+        "B": "rezolutiunea contractului",
+        "C": "nu intervine nici o sanctiune, contractul putand fi si cu titlu gratuity"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 24,
+      "question_text": "Obiectul contractului de editare il constituie:",
+      "options": {
+        "A": "cedarea de catre autor editorului a dreptului de a reproduce si difuza opera",
+        "B": "cedarea de catre autor editorului a dreptului de a exploata opera",
+        "C": "cedarea de catre autor editorului a dreptului de a aduce modificari operei"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 25,
+      "question_text": "Se considera de legea ca o editie este epuizata atunci cand :",
+      "options": {
+        "A": "au ramas nevandute peste 100 de exemplare sau 5% din tirajul tras.",
+        "B": "au ramas nevandute sub 100 de exemplare sau 5% din tirajul tras",
+        "C": "au ramas nevandute 100 de exemplare sau 5% din tirajul tras"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 26,
+      "question_text": "In situatia in care editorul se hotaraste sa distruga exemplarele ramase in stoc:",
+      "options": {
+        "A": "poate face acest lucru fara acordul autorului",
+        "B": "poate face acest lucru numai cu acordul autorului",
+        "C": "el este obligat sa le ofere mai intai autorului pe pretul pe care l-ar fi platit in vederea operatiei de distrugere"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 27,
+      "question_text": "Incetarea contractului de reprezentare teatrala( de executie muzicala) intervine in cazul:",
+      "options": {
+        "A": "presupune existenta unei culpe a partilor",
+        "B": "intreruperea reprezentarii sau executarii timp de 2 ani consecutive",
+        "C": "interpretarea operei in mod abuziv"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 28,
+      "question_text": "Durata de protectie a operei cinematografice este de :",
+      "options": {
+        "A": "70 de ani dupa moartea ultimului co-autor",
+        "B": "durata vietii autorului plus 70 de ani dupa decesul acestuia",
+        "C": "cat timp este in fiinta opera cinematografica"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 29,
+      "question_text": "Drepturile conexe dreptului de autor:",
+      "options": {
+        "A": "sunt drepturi asupra creatiei interpretilor, regizorilor, dirijorilor, celor care inregistreaza operele , celor care le comunica public prin radio-TV",
+        "B": "fac legatura intre operele autorilor si mijloacele prin care acestea ajung la cunostinta publicului",
+        "C": "ambele variante de raspuns sunt corecte"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 30,
+      "question_text": "Subiect al dreptului de autor nu poate fi :",
+      "options": {
+        "A": "persoana juridica cu sediul in Romania",
+        "B": "persoana fizica ce a creat opera",
+        "C": "persoanele fizice care creeaza impreuna o opera"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 31,
+      "question_text": "Subiecti secundari ai dreptului de autor sunt:",
+      "options": {
+        "A": "persoanele fizice care elaboreaza in comun o opera",
+        "B": "persoanele care dobandesc o serie de prerogative ale dreptului de autor, fie in temeiul legii, fie in temeiul unor acte intre vii sau pentru cauza de moarte",
+        "C": "succesorii in drepturi ai autorului"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 32,
+      "question_text": "Organismele de gestiune colectiva a dreptului de sunt :",
+      "options": {
+        "A": "societati comerciale cu personalitate juridica proprie",
+        "B": "societati comerciale in nume colectiv",
+        "C": "asociatii non-profit"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 33,
+      "question_text": "Distinctia intre opere comune sau realizate in colaborare si opere colective este:",
+      "options": {
+        "A": "la opera realizata in colaborare contributia fiecaruia dintre autori poate fi determinata, pe cand opera colectiva, nu permite identificarea contributia acestora",
+        "B": "la opera in colaborare drepturile pentru autori sunt exercitate in comun de catre acestia, necunoscandu-se contributia fiecarui autor, iar la opera colectiva drepturile apartin persoanei fizice sau juridice care a comandat opera,",
+        "C": "nu exista nici o distinctie intre cele doua categorii"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 34,
+      "question_text": "Pot constitui obiect al dreptului de autor",
+      "options": {
+        "A": "operele ce nu sunt contrare ordinii publice sau bunelor moravuri",
+        "B": "inventiile continute intr-o opera",
+        "C": "ideile si teoriile"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 35,
+      "question_text": "Folclorul ca totalitate de opere, a traditiilor si obiceiurilor populare:",
+      "options": {
+        "A": "nu face obiect al protectiei conferite de dreptul de autor, conform legii 8/1996,",
+        "B": "este protejat prin dispozitiile legii 8/1996,",
+        "C": "nici un alt sistem de drept in afara celui romanesc nu admite protejarea acestuia"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 36,
+      "question_text": "Nu constituie titlu de protectie a inventiilor:",
+      "options": {
+        "A": "certificatul de utilitate",
+        "B": "certificatul constator",
+        "C": "certificatul additional"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 37,
+      "question_text": "Sunt brevetabile:",
+      "options": {
+        "A": "inventiile care contravin ordinii publice si bunelor moravuri",
+        "B": "soiurile de plante si rasele de animale, precum si procedeele esential biologice pentru obtinerea plantelor sau animalelor",
+        "C": "inventiile care conduc la dezvoltarea unui produs"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 38,
+      "question_text": "Inventiile care contin informatii ce constituie secrete de stat:",
+      "options": {
+        "A": "brevetarea se poate face numai daca informatiile au fost declasificate",
+        "B": "nu se pot breveta",
+        "C": "secretele de stat nu pot constitui parte componenta a unei inventii"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 39,
+      "question_text": "Brevetul european se acorda de catre :",
+      "options": {
+        "A": "organismul de gestiune colectiva constituit la nivelul fiecarui stat",
+        "B": "OSIM",
+        "C": "Oficiul European de Brevete"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 40,
+      "question_text": "In material brevetului de inventie, sistemul examenului amanat sau examenului intarziat presupune:",
+      "options": {
+        "A": "verificarea noutatii inventiei, precum si a conditiilor pentru constituirea depozitului reglementar si a celor pentru existenta inventiei brevetabile",
+        "B": "examinarea constituirii depozitului reglementar si publicarea cererii de brevet",
+        "C": "obtinerea brevetului de inventie , fara examinarea noutatii, titlul de protectie eliberandu- se pe riscul si pericolul inventatorului"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 41,
+      "question_text": "Durata maxima de valabilitate a unui brevet este de",
+      "options": {
+        "A": "20 de ani",
+        "B": "mai mica de 20 de ani",
+        "C": "mai mare de 20 de ani"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 42,
+      "question_text": "Perioada de valabilitate a brevetului de perfectionare sau complementar:",
+      "options": {
+        "A": "nu are nici o legatura cu durata de valabilitate a brevetului principal",
+        "B": "depinde de aceea a brevetului principal",
+        "C": "este limitata la aceea a brevetulului principal"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 43,
+      "question_text": "Dupa expirarea duratei de valabilitate:",
+      "options": {
+        "A": "inventia trece in domeniul public si poate fi exploatata de orice persoana interesata",
+        "B": "inventia trece in domeniul public si poate fi exploatata de alte persoane numai cu consimtamantul titularului brevetului",
+        "C": "titularul brevetului isi poate reinnoi brevetul de inventie pentru o perioada de inca 5 ani"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 44,
+      "question_text": "Brevetul de inventie:",
+      "options": {
+        "A": "asigura protectia proprietatii industriale prin interzicerea folosirii inventiei de catre terti pe durata sa de valabilitate",
+        "B": "atribuie titularului o situatie juridica stabilita anterior prin lege , dand nastere, modificand sau stingand noi drepturi subiective.",
+        "C": "ambele variante de raspuns sunt corecte"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 45,
+      "question_text": "Brevetul de inventie este:",
+      "options": {
+        "A": "act juridic declarativ de drepturi preexistente",
+        "B": "contract sinalagmatic, cu titlu gratuit",
+        "C": "un act juridic administrativ constitutiv de drepturi"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 46,
+      "question_text": "Noutatea:",
+      "options": {
+        "A": "este o conditie de fond pentru ca o inventie sa fie brevetata",
+        "B": "este o conditie de forma pentru ca o inventie sa fie brevetata",
+        "C": "nu constituie o conditie pentru brevetarea unei inventii"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 47,
+      "question_text": "Nu exista noutate :",
+      "options": {
+        "A": "daca anterior cererii pentru eliberarea brevetului de inventie au fost cunoscute obiectul, procedeul, metoda, produsul",
+        "B": "cand inventia a fost divulgata de insusi autor sau a fost cunoscuta in intervalul de 6 luni care a precedat inregistrarea cererii de brevet.",
+        "C": "ambele varinate de raspuns sunt corecte"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 48,
+      "question_text": "O inventie este considerata ca implicand o activitate inventiva daca :",
+      "options": {
+        "A": "daca se bazeaza pe un procedeu nou, necunoscut publicului",
+        "B": "pentru o persoana de specialitate ea nu rezulta in mod evident din cunostintele cuprinse in stadiul tehnicii",
+        "C": "daca vine sa perfectioneze un produs preexistent"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 49,
+      "question_text": "Sunt considerate inventii:",
+      "options": {
+        "A": "creatiile estetice",
+        "B": "programele de calculator",
+        "C": "creatiile intelectuale care conduc la un produs nou, necunoscut, anterior stadiului tehnicii"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 50,
+      "question_text": "Data de la care incepe sa curga perioada de valabilitate a brevetului de inventie poate fi :",
+      "options": {
+        "A": "data depozitului cererii de brevet",
+        "B": "data finalizarii etapei de examinare in fond a cererii",
+        "C": "data ramanerii irevocabile a hotararii prin care s-a admis cererea de brevet"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 51,
+      "question_text": "Titular al brevetului de inventie poate fi inventatorului salariat , in situatia in care:",
+      "options": {
+        "A": "inventia a fost creata in executarea unui contract de munca , ce prevede o misiune inventiva, iar unitatea nu si-a valorificat dreptul la acordarea brevetului",
+        "B": "inventia a fost creata in executarea unui contract de munca, ce implica explicit o misiune inventiva si nu exista o clauza de atribuire catre inventator a dreptului la acordarea brevetului",
+        "C": "ambele raspunsuri sunt corecte"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 52,
+      "question_text": "Odata cu depunerea cererii si inregistrarea acesteia , in persoana titularului",
+      "options": {
+        "A": "se constituie depozitul national reglementar",
+        "B": "se naste dreptului de prioritate",
+        "C": "ambele raspunsuri sunt corecte"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 53,
+      "question_text": "De la data publicarii cererii de brevet:",
+      "options": {
+        "A": "solicitantului ii sunt recunoscute provizoriu aceleasi drepturi ca si titularului de brevet",
+        "B": "solicitantuluIui i se recunoaste un drept exclusiv de exploatare a inventiei",
+        "C": "solicitantul poate promova actiunea in contrafacere"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 54,
+      "question_text": "Procedura extraordinara de brevetare presupune:",
+      "options": {
+        "A": "inregistrarea, examinarea preliminara si publicarea cererii de brevet",
+        "B": "ca solicitantul poate cere examinarea cererii fara sa mai astepte publicarea acesteia",
+        "C": "examinarea numai in fond a cererii"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 55,
+      "question_text": "Cererea de acordare a brevetului poate fi formulata de catre:",
+      "options": {
+        "A": "inventator",
+        "B": "orice persoana fizica sau juridical domiciliata/ cu sediul in Romania",
+        "C": "ambele raspunsuri sunt corecte"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 56,
+      "question_text": "Examinarea cererii de brevet poate fi ceruta :",
+      "options": {
+        "A": "la data depozitului cererii de brevet",
+        "B": "pentru cererile de brevet de inventie care contin informatii calificate drept secrete de stat, se poate solicita examinarea cererii in termen de 2 luni de la declasificare",
+        "C": "oricand"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 57,
+      "question_text": "In situatia in care nu s-a cerut examinarea odata cu depunerea cererii si examinarea nici nu are loc pana la expirarea termenului de 30 de luni:",
+      "options": {
+        "A": "cererea va fi respinsa",
+        "B": "cererea se considera abandonata",
+        "C": "titularul poate solicita reluarea examinarii"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 58,
+      "question_text": "Hotararea Comisiei OSIM se ia:",
+      "options": {
+        "A": "in aceeasi zi in care s-a finalizat examinarea in fond a cererii de brevet",
+        "B": "imediat dupa examinarea in fond a cererrii de brevet",
+        "C": "in termen de 18 luni de la data de la care s-a solicitat examinarea cererii"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 59,
+      "question_text": "In baza hotararii de acordare a brevetului de inventie:",
+      "options": {
+        "A": "OSIM elibereaza brevetul de inventie persoanei indreptatite",
+        "B": "drepturile titularului devin opozabile fata de terti",
+        "C": "brevetul se inscrie in Registrul national al brevetelor de inventie"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 60,
+      "question_text": "In cazul in care solicitantul, altul decat inventatorul, nu a facut dovada in termenul stabilit de lege, ca este indreptatit la acordarea brevetului:",
+      "options": {
+        "A": "OSIM considera cererea abandonata",
+        "B": "OSIM respinge cererea",
+        "C": "OSIM il notifica pe solicitant sa -si completeze cererea in maxim 2 luni de zile, sub sanctiunea respingerii cererii"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 61,
+      "question_text": "Cererile sunt considerate ca fiind retrase in urmatoarele cazuri:",
+      "options": {
+        "A": "inventatorii nu au fost declarati in termen de 18 luni de la data solicitarii examinarii in fond",
+        "B": "cererea nu indeplineste conditiile prevazute de lege",
+        "C": "inventia ce face obiectul cererii este exclusa de la brevetare"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 62,
+      "question_text": "Hotararile OSIM se comunica solicitantului in termen de:",
+      "options": {
+        "A": "15 zile de la pronuntare",
+        "B": "o luna de la data luarii hotararii",
+        "C": "10 zile de la pronuntare"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 63,
+      "question_text": "Hotararie OSIM de acordare sau de respingere a cererii de brevet de inventie pot fi atacate pe calea:",
+      "options": {
+        "A": "contestatiei",
+        "B": "recursului",
+        "C": "apelului"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 64,
+      "question_text": "Hotararie OSIM de acordare a brevetului de inventie pot fi:",
+      "options": {
+        "A": "atacate cu contestatie in anulare",
+        "B": "revizuite potrivit regulilor de drept comun",
+        "C": "revocate din oficiu"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 65,
+      "question_text": "OSIM va dispune repunerea in termen a solicitantului sau titularului brevetului daca:",
+      "options": {
+        "A": "titularul din motive temeinice nu a putut sa respecte un termen in procedurile in fata OSIM",
+        "B": "se completeaza cererea de brevet cu noi revendicari",
+        "C": "se invoca dreptul de prioritate"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 66,
+      "question_text": "In cazurile in care cererea de brevet a fost retrasa sau considerara retrasa:",
+      "options": {
+        "A": "OSIM nu poate dispune repunerea in termen",
+        "B": "titularul poate solicita repunerea in termen",
+        "C": "nici un raspuns nu este correct"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 67,
+      "question_text": "Cererea de repunere in termen trebuie formulata :",
+      "options": {
+        "A": "in termen de 2 luni de la incetarea cauzei care l-a impiedicat pe solicitantul sau titularul brevetului sa actioneze",
+        "B": "nu mai tarziu de 1 an de la data expirarii termenului nerespectat",
+        "C": "ambele raspunsuri sunt corecte"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 68,
+      "question_text": "Prntre drepturile personal nepatrimoniale ale inventatorului se numara si :",
+      "options": {
+        "A": "dreptul de prioritate",
+        "B": "dreptul de scutire temporara de la impozitul pe profit",
+        "C": "dreptul unitatii titulare de brevet la asistenta tehnica"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 69,
+      "question_text": "Titularul brevetului are urmatoarele obligatii fata de inventator:",
+      "options": {
+        "A": "de a-l informa asupra stadiului examinarii cererii de brevet in cadrul OSIM, precum si asupra stadiului si rezultatelor aplicarii inventiei",
+        "B": "de a-i face public numele",
+        "C": "de a-i remite titlul de protectie la expirarea duratei de valabilitate a acestuia"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 70,
+      "question_text": "Drepturile patrimoniale ale inventatorului netitular de brevet:",
+      "options": {
+        "A": "sunt stabilite prin conventia partilor",
+        "B": "sunt stabilite prin contractul de cesiune a dreptului la eliberarea brevetului de inventie",
+        "C": "sunt stabilite prin lege"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 71,
+      "question_text": "Limitele dreptului exclusiv de exploatare a inventiei:",
+      "options": {
+        "A": "durata protectiei si intinderea teritoriala a protectiei",
+        "B": "fabricarea, folosirea, oferirea spre vanzare, vanzarea sau importul in vederea folosirii, in cazul in care obiectul brevetului este un produs",
+        "C": "modalitatea de exploatare a inventiei"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 72,
+      "question_text": "Fata de terti, efectele transmiterii drepturilor ce decurg din brevet se vor produce:",
+      "options": {
+        "A": "din momentul incheierii contractului de cesiune",
+        "B": "incepand cu data publicarii in BOPI a mentiunii inregistrate la OSIM",
+        "C": "din momentul in care au fost notificati cu privire la cesiunea drepturilor"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 73,
+      "question_text": "Prin cesiune drepturilor decurgand din brevetul de inventie :",
+      "options": {
+        "A": "se transmite insasi dreptul asupra inventiei",
+        "B": "cesionarul se subroga in drepturile cedentului",
+        "C": "ambele raspunsuri sunt corecte"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 74,
+      "question_text": "Ca efect al cesiunii dreptulrilor decurgand din brevetul de inventie:",
+      "options": {
+        "A": "cesionarul dobandeste dreptul asupra brevetului",
+        "B": "cesionarul nu are dreptul de a formula actiunea in contrafacere",
+        "C": "cesionarul este obligat sa inregistreze cesiunea la OSIM"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 75,
+      "question_text": "Ca urmare a incheierii contractului de cesiune a drepturilor cu privire la brevetul de inventie, cedentul este obligat",
+      "options": {
+        "A": "sa exploateze inventia cedata",
+        "B": "preda obiectul cesiunii",
+        "C": "sa plateasca taxele anuale pentru mentinerea in vigoare a brevetului"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 76,
+      "question_text": "In cazul licentei exclusive:",
+      "options": {
+        "A": "licentiatul are drept exclusiv de folosire a inventiei",
+        "B": "licentiatorul poate transmite acest drept de folosire altei persoane",
+        "C": "licentiatul are dreptul la o folosire limitata a inventiei"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 77,
+      "question_text": "Incetarea contractului de licenta se poate produce in urmatoarele imprejurari:",
+      "options": {
+        "A": "la expirarea termenului convenit de parti, daca s-a incheiat contractul pe o perioada determinate",
+        "B": "prin anularea brevetului",
+        "C": "ambele raspunsuri sunt corecte"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 78,
+      "question_text": "Licentele obligatorii (judiciare) se acorda in baza :",
+      "options": {
+        "A": "unei hotarari judecatoresti",
+        "B": "dipozitiilor legale",
+        "C": "conventiei partilor"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 79,
+      "question_text": "Anterior expirarii perioadei legale de protectie, titularul brevetului de inventie poate :",
+      "options": {
+        "A": "renunta la acest titlu de protectie partial sau integral",
+        "B": "renunta la acest titlu de protectie cu consimtamantul inventatorului",
+        "C": "nu poate renunta la acest titlu de protectie"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 80,
+      "question_text": "Decaderea titularului din drepturile conferite de brevet intervine:",
+      "options": {
+        "A": "in momentul in care titularul brevetului nu achita taxele legale de mentinere in vigoare a brevetului de inventie in termenul prevazut de lege",
+        "B": "in cazul in care titularul brevetului cesioneaza drepturile sale unei alte persoane",
+        "C": "sanctiunea decaderii nu intervine in nici una din situatiile de mai sus"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 81,
+      "question_text": "Decaderea :",
+      "options": {
+        "A": "produce efecte numai pentru viitor",
+        "B": "produce efecte retroactive",
+        "C": "poate fi si partiala"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 82,
+      "question_text": "Revalidarea brevetului:",
+      "options": {
+        "A": "se poate solicita de orice persoana interesata",
+        "B": "se poate solicita in termen de 6 luni de la data publicarii decaderii",
+        "C": "nu este admisibila in caz de neplata taxelor de mentinere in vigoare a brevetului, chiar daca neplata taxelor a fost determinate de motive neimputabile titularului de brevet"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 83,
+      "question_text": "Anularea brevetului intervine :",
+      "options": {
+        "A": "pentru motive posterioare datei de inregistrare a cererii de brevet",
+        "B": "pentru motive concomitente datei de inregistrare a cererii de brevet",
+        "C": "daca nu sunt indeplinite conditiile pentru existenta unei inventii brevetabile, indiferent de momentul constatarii neindeplinirii acestor conditii"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 84,
+      "question_text": "Cererea de anulare a brevetului poate fi formulata de:",
+      "options": {
+        "A": "inventator",
+        "B": "persoana indreptatita la acordarea brevetului",
+        "C": "ambele raspunsuri sunt corecte"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 85,
+      "question_text": "Instanta care are competenta materiala si teritoriala exclusiva de a judeca cererile de anulare a brevetului de inventie este:",
+      "options": {
+        "A": "Tribunalul Bucuresti",
+        "B": "Curtea de Apel Bucuresti",
+        "C": "Tribunalul in circumscriptia caruia domiciliaza titularul brevetului de inventie"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 86,
+      "question_text": "Anularea brevetului de inventie produce efecte",
+      "options": {
+        "A": "numai pentru viitor",
+        "B": "de la data constituirii depozitului cererii de brevet",
+        "C": "de la data ramanerii irevocabile a hotararii prin care s-a pronuntat anularea brevetului"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 87,
+      "question_text": "Daca brevetul a fost anulat integral:",
+      "options": {
+        "A": "se considera ca el nu a fost niciodata acordat",
+        "B": "efectul consta in restrangerea sau limitarea revendicarilor",
+        "C": "titularul nu mai poate exploata inventia incepand cu data ramanerii irevocabile a hotararii de anulare"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 88,
+      "question_text": "Contestatia impotriva hotararilor OSIM de acordare sau de respingere a cererii de brevet :",
+      "options": {
+        "A": "trebuie formulata in termen de 15 zile de la pronuntare",
+        "B": "trebuie formulata in termen de 3 luni de la data comunicarii",
+        "C": "se solutioneaza de catre Tribunalul Bucuresti"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 89,
+      "question_text": "OSIM poate revoca din oficiu hotararile sale privind cererile de brevet de inventie:",
+      "options": {
+        "A": "pana la data comunicarii acestora catre persoana interesata",
+        "B": "pana la data publicarii in BOPI",
+        "C": "chiar si dupa comunicarea acestora catre persoana interesata"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 90,
+      "question_text": "Marca :",
+      "options": {
+        "A": "este un semn distinctiv al proprietatii industriale",
+        "B": "nu este susceptibila de reprezentare grafica",
+        "C": "serveste la deosebirea produselor si serviciilor unei persoane fizice sau juridice de cele apartinand altei persoane."
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 91,
+      "question_text": "Pot fi inregistrate:",
+      "options": {
+        "A": "marcile care indeplinesc conditiile prevazute de lege",
+        "B": "marcile care sunt lipsite de caracter distinctiv;",
+        "C": "marcile care sunt compuse exclusiv din semne sau din indicatii devenite uzuale in limbajul curent sau in practicile comerciale loiale si constante;"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 92,
+      "question_text": "Comerciantii:",
+      "options": {
+        "A": "au posibilitatea, de a alege si utiliza marcile",
+        "B": "au obligatia de a alege si utiliza marcile",
+        "C": "nici unul dintre raspunsurile de mai sus nu este corect"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 93,
+      "question_text": "In cazul medicamentelor:",
+      "options": {
+        "A": "utilizarea marcilor este obligatorie",
+        "B": "utilizarea marcilor nu este obligatorie",
+        "C": "utilizarea marcilor este lasata la aprecierea comerciantilor"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 94,
+      "question_text": "Marca colectiva :",
+      "options": {
+        "A": "este destinata a servi la deosebirea produselor sau a serviciilor membrilor unei asociatii de produsele sau serviciile apartinand altor persoane",
+        "B": "apartine persoanelor care alcatuiesc asociatiile",
+        "C": "este alcatuita din mai multe semne distincte"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 95,
+      "question_text": "Marcile de rezerva:",
+      "options": {
+        "A": "se depun cu intentia de a fi folosite in viitor pentru anumite produse sau servicii",
+        "B": "existenta lor depinde de existenta unor mari principale",
+        "C": "sunt dependente de o alta marca principala"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 96,
+      "question_text": "Functia de concurenta a marcii se realizeaza prin :",
+      "options": {
+        "A": "diferentiere",
+        "B": "publicitate",
+        "C": "toate variantele de mai sus"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 97,
+      "question_text": "Reprezentarea semnului ales ca marca se poate realiza prin:",
+      "options": {
+        "A": "linii si desene",
+        "B": "puncte si culori",
+        "C": "ambele raspunsuri sunt corecte"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 98,
+      "question_text": "Distinctivitatea , ca trasatura a marcii cuprinde:",
+      "options": {
+        "A": "originalitatea",
+        "B": "inovatia",
+        "C": "actualitatea"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 99,
+      "question_text": "Marca de certificare este:",
+      "options": {
+        "A": "marca larg cunoscuta in Romania la data depunerii unei cereri de inregistrare a marcii sau la data prioritatii revendicate in cerere;",
+        "B": "marca de fabrica sau de comert , inregistrata reglementar in tara de origine, care este admisa la depunere si protejata in alte state membre al Conventiei de la Paris, in forma inregistrata in tara de origine",
+        "C": "marca ce indica faptul ca produsele sau serviciile pentru care este utilizata sunt certificate de titularul marcii in ceea ce priveste calitatea, materialul, modul de fabricatie a produselor sau de prestare a serviciilor, precizia ori alte caracteristici"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 100,
+      "question_text": "Pentru a dobandi drepturile de protectie ce decurg din marca, persoana fizica sau juridica trebuie :",
+      "options": {
+        "A": "sa aiba capacitate deplina de exercitiu",
+        "B": "sa foloseasca efectiv marca inregistrata",
+        "C": "sa aiba domiciliul , respectiv sediul in Romania"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 101,
+      "question_text": "Dreptul la marca individuala poate apartine:",
+      "options": {
+        "A": "unei persoane fizice sau juridice care desfasoara un comert sau o industrie ori presteaza un serviciu",
+        "B": "unei persoane fizice cu capacitate deplina de folosinta",
+        "C": "persoanei fizice care a creat desenul ce constituie obiect al marcii"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 102,
+      "question_text": "Dreptul la marca colectiva apartine:",
+      "options": {
+        "A": "persoanelor fizice care au creat in mod colectiv marca",
+        "B": "persoanelor juridice care nu exercita nemijlocit o activitate comerciala sau industriala",
+        "C": "persoanelor fizice care presteaza o activitate comerciala"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 103,
+      "question_text": "Dreptul la marca de certificare apartine :",
+      "options": {
+        "A": "persoanelor juridice care exercita controlul produselor sau al serviciilor",
+        "B": "persoanei fizice, furnizor de produse ori prestator de servii",
+        "C": "asociatiilor de fabricanti"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 104,
+      "question_text": "Dreptul de folosire exclusiva a marcii presupune:",
+      "options": {
+        "A": "tertii pot utiliza aceeasi marca, dar numai pentru alte produse sau servicii",
+        "B": "titularul unei marci individulale sau colective nu are posibilitatea transmiterii drepturilor asupra marcii, in tot sau in parte, cu titlu oneros sau gratuit",
+        "C": "tertii nu pot utiliza aceeasi marca , chiar daca ultilizarea vizeaza alte produse sau servicii"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 105,
+      "question_text": "Titularul unei marci inregistrate poate:",
+      "options": {
+        "A": "solicita instantei de judecata sa interzica tertilor sa foloseasca , fara consimtamantul sau un semn identic ori similar cu marca respective",
+        "B": "cere sa se interzica altor persoane detinerea, oferirea spre vanzare sau comercializarea produselor care poarta aceasta marca, pentru produsele care au fost puse in comert de insusi titular sau cu consimtamantul acestuia",
+        "C": "cere sa se interzica unui tert sa foloseasca in activitatea sa comerciala numele sau denumirea sa"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 106,
+      "question_text": "Marca are :",
+      "options": {
+        "A": "caracter absolut",
+        "B": "caracter principal",
+        "C": "caracter nelimitat"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 107,
+      "question_text": "Data depozitului national reglementar este :",
+      "options": {
+        "A": "data publicarii cererii de inregistrare a marcii",
+        "B": "data la care a fost depusa la Oficiul de Stat pentru Inventii si Marci cererea de inregistrare a marcii",
+        "C": "independenta de momentul depunerii cererii de inregistrare a marcii"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 108,
+      "question_text": "Daca solicitantul a prezentat anumite produse si servicii in cadrul unei expozitii internationale oficiale sau oficial recunoscute, organizata pe teritoriul Romaniei sau intr-un stat membru al Conventiei de la Paris, solicitantul va beneficia de:",
+      "options": {
+        "A": "un drept de prioritate legala",
+        "B": "un drept de prioritate conventionala",
+        "C": "un drept de prioritate de expozitie"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 109,
+      "question_text": "Cererea de inregistrare a marcii este examinata de catre OSIM:",
+      "options": {
+        "A": "in termen de o luna de la data primirii cererii de inregistrare a marcii",
+        "B": "in termen de 6 luni de la plata taxei de inregistrare",
+        "C": "in termen de o luna de la plata taxei de inregistrare"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 110,
+      "question_text": "Poate face opozitie la cererea de inregistrare a marcii:",
+      "options": {
+        "A": "titularul unui drept concomitent cu privire la imaginea sau la numele patronimic, la o indicatie geografica protejata, un desen sau un model industrial protejat, la orice alt drept de proprietate industriala protejat sau la un drept de autor",
+        "B": "titularul unei marci de rezerva",
+        "C": "titularul unei marci anterioare sau al unei marci notorii"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 111,
+      "question_text": "Deciziile OSIM privind inregistrarea marcilor pot fi contestate:",
+      "options": {
+        "A": "de catre solicitantul inregistrarii marcii",
+        "B": "in termen de 3 luni de la comunicare",
+        "C": "ambele raspunsuri sunt corecte."
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 112,
+      "question_text": "Cererea de reinnoire a inregistrarii marcii poate fi facuta :",
+      "options": {
+        "A": "inainte de expirarea duratei de protectie in curs",
+        "B": "mai devreme de 3 luni inainte de expirarea duratei de protectie",
+        "C": "In termen de maxim o luna de la expirarea duratei de protectie"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 113,
+      "question_text": "Neplata taxei pentru cererea de reinnoire a inregistrarii marcii se snactioneaza cu:",
+      "options": {
+        "A": "decaderea titularului din dreptul la marca",
+        "B": "revocarea marcii",
+        "C": "anularea marcii"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 114,
+      "question_text": "Daca OSIM constata ca nu sunt indeplinite conditiile prevazute de lege pentru reinnoirea inregistrarii marcii:",
+      "options": {
+        "A": "Anuleaza cererea",
+        "B": "Respinge cererea",
+        "C": "Notifica titularul, care poate prezenta un raspuns in termen de 3 luni de la primirea notificarii"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 115,
+      "question_text": "114. Reinnoirea inregistrarii marcilor opereaza :",
+      "options": {
+        "A": "incepand cu ziua imediat urmatoare expirarii duratei de protectie in curs",
+        "B": "incepand cu data ramanerii definitive a hotararii de admitere a cererii",
+        "C": "incepand cu data publicarii mentiunii in Buletinul Oficial de Proprietate Industriala"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 116,
+      "question_text": "Marcile identice sau similare, apartinand aceluiasi titular si care sunt folosite pentru produse sau servicii identice sau similare :",
+      "options": {
+        "A": "nu pot fi transmise prin cesiune decat in totalitate si numai catre o singura persoana",
+        "B": "pot fi transmise prin cesiune partial sau total, catre o singura persoana",
+        "C": "pot fi transmise prin cesiune partial catre mai multe persoane"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 117,
+      "question_text": "Anularea marcii reprezinta , in fapt:",
+      "options": {
+        "A": "Decaderea titularului din drepturile conferite de marca este o sanctiune civila aplicata pentru :",
+        "B": "neindeplinirea conditiilor de fond prevazute de lege pentru acordarea marcii",
+        "C": "neexercitarea unui drept la marca o anumita perioada de timp"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 118,
+      "question_text": "Stabilirea existentei unui caz de abandon al marcii :",
+      "options": {
+        "A": "este o chestiune de fapt, lasata la aprecierea instantelor de judecata",
+        "B": "este o chestiune de drept, stabilita de lege",
+        "C": "se realizeaza de catre OSIM"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 119,
+      "question_text": "Este asimilata folosirii efective a marcii:",
+      "options": {
+        "A": "folosirea marcii de catre un tert, cu consimtamantul titularului acesteia",
+        "B": "folosirea marcii sub o forma care difera de aceea inregistrata prin anumite elemente si care altereaza mai mult sau mai putin caracterul distinctiv al acesteia",
+        "C": "aplicarea marcii pe produse sau pe ambalaje , fara consimtamantul titularului marcii"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 120,
+      "question_text": "Indicatia geografica este:",
+      "options": {
+        "A": "protejata in Romania prin inregistrarea la OSIM",
+        "B": "denumirea ce serveste la identificarea unui produs originar dintr-o tara, regiune sau localitate a unui stat",
+        "C": "ambele raspunsuri sunt corecte"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 121,
+      "question_text": "Au calitatea de a solicita OSIM inregistrarea unei indicatii geografice",
+      "options": {
+        "A": "orice persoana fizica sau juridica cu domiciliul/ sediul in Romania",
+        "B": "o asociatie de producatori care desfasoara o activitate de productie intr-o anumita zona geografica",
+        "C": "importatorul de produse dintr-o anumita zona geografica"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 122,
+      "question_text": "Aceeasi indicatie geografica",
+      "options": {
+        "A": "poate fi inregistrata de mai multe asociatii de producatori care desfasoara activitati de productie in aceeasi zona geografica",
+        "B": "nu poate fi inregistrata de mai multe asociatii de producatori care desfasoara activitati de productie in aceeasi zona geografica",
+        "C": "poate fi inregistrata de mai multe asociatii de producatori care desfasoara activitati de productie in zone geografice diferite"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 123,
+      "question_text": "Inregistrarea unei indicatii geografice poate fi ceruta la OSIM:",
+      "options": {
+        "A": "numai personal",
+        "B": "numai prin mandatar imputernicit in acest sens",
+        "C": "personal sau prin mandatar"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 124,
+      "question_text": "Dreptul de folosire a indicatiei geografice, dobandit prin inregistrarea acesteia, apartine:",
+      "options": {
+        "A": "membrilor asociatiei inscrisi in lista comunicata la OSIM",
+        "B": "persoanei care a cererea de inregistrare formulat",
+        "C": "producatorului produsului respectiv"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 125,
+      "question_text": "Opozitia la inregistrarea indicatiei geografice pentru nerespectarea dispozitiilor legale, poate fi formulate in termen de:",
+      "options": {
+        "A": "3 luni de la depunerea cereririi la OSIM",
+        "B": "2 luni de la data deciziei de inregistrare",
+        "C": "3 luni de la publicare"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 126,
+      "question_text": "Dreptul de folosire a unei indicatii geografice :",
+      "options": {
+        "A": "Poate fi transmis prin contract de cesiune",
+        "B": "Se poate transmite prin acte mortis causa",
+        "C": "nu poate sa faca obiectul nici unei transmiteri"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 127,
+      "question_text": "Pentru nerespectarea conditiilor de calitate si a caracteristicilor specifice produselor din zona la care se refera indicatia geografica, se poate solicita",
+      "options": {
+        "A": "anularea inregistrarii indicatiei geografice",
+        "B": "decaderea a persoanelor autorizate de OSIM sa foloseasca indicatia geografica inregistrata",
+        "C": "revalidarea inregistrarii indicatiei geografice"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 128,
+      "question_text": "Un desen sau model este considerat nou daca :",
+      "options": {
+        "A": "nici un desen sau model identic nu a fost facut public inaintea datei de depunere a cererii de inregistrare",
+        "B": "contine un element de noutate, raportat la stadiul actual al tehnicii",
+        "C": "nu a mai fost utilizat inaintea datei de depunere a cererii de inregistrare"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 129,
+      "question_text": "Divulgarea nu este luata in considerare daca desenul sau modelul pentru care se solicita protectie a fost facut public:",
+      "options": {
+        "A": "de catre autor sau succesorul sau in drepturi ori de catre un tert pe baza informatiilor furnizate sau actelor indeplinite de autor sau succesor",
+        "B": "in perioada de 6 luni precedand data de depozit a cererii de inregistrare sau, daca o prioritate este revendicata, la data de prioritate",
+        "C": "in perioada de 10 luni precedand data de depozit a cererii de inregistrare sau, daca o prioritate este revendicata, la data de prioritate"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 130,
+      "question_text": "Desenul sau modelul care este determinat exclusiv de o functie tehnica:",
+      "options": {
+        "A": "poate fi inregistrat",
+        "B": "nu poate fi inregistrat, desi indeplineste conditia noutatii",
+        "C": "poate fi inregistrat , cu conditia sa fie reprodus in forma si la dimensiunile exacte"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 131,
+      "question_text": "Printr-o cerere se poate solicita inregistrarea:",
+      "options": {
+        "A": "a maxim 100 de desene sau modele industriale",
+        "B": "a 100 de desene sau modele industriale",
+        "C": "a cel putin 100 de desene sau modele industriale"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 132,
+      "question_text": "Descrierea elementelor noi, caracteristice desenului sau modelului pentru care se solicita protectia:",
+      "options": {
+        "A": "trebuie mentionata in mod obligatoriu in cererea de inregistrare a modelului sau desenului industrial",
+        "B": "se mentioneaza in mod facultativ in cererea de inregistrare a modelului sau desenului industrial",
+        "C": "nu se mentioneaza in cererea de inregistrare a modelului sau desenului industrial"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 133,
+      "question_text": "Drepturile morale ale autorului desenelor sau modelelor industriale :",
+      "options": {
+        "A": "nu sunt legate de persoana autorului",
+        "B": "se nasc din momentul publicarii cererii de eliberare a certificatului de inregistrare a desenului sau modelului industrial",
+        "C": "au durata nelimitata in timp"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 134,
+      "question_text": "Limitele exercitarii drepturilor patrimoniale asupra desenelor sau modelelor industriale vizeaza:",
+      "options": {
+        "A": "durata de protectie",
+        "B": "intinderea teritoriala",
+        "C": "exploatarea desenelor sau modelelor industriale"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 135,
+      "question_text": "Spre deosebire de alte drepturi de proprietate industriala, in cazul desenelor si modelelor industriale legiuitorul :",
+      "options": {
+        "A": "a prevazut obligatia titularului de a exploata desenul sau modelul industrial, sub sanctiunea decaderii din drepturi pentru neexploatare.",
+        "B": "a prevazut obligatia titularului de a exploata desenul sau modelul industrial, sub sanctiunea anularii titlului de protectie pentru neexploatare",
+        "C": "nu a mai prevazut obligatia titularului de a exploata desenul sau modelul industrial, sub sanctiunea decaderii din drepturi pentru neexploatare."
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 136,
+      "question_text": "In cazul modelelor sau desenelor industriale , depozitul reglementar este constituit din:",
+      "options": {
+        "A": "Cererea de inregistrare",
+        "B": "Descrierea desenului sau modelului",
+        "C": "Cererea de inregistrare si descrierea desenului sau modelului"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 137,
+      "question_text": "Daca in termen de doua luni de la data depunerii cererii de inregistrare nu sunt depuse completarile necesare pentru constituirea depozitului reglementar",
+      "options": {
+        "A": "cererea de inregistrare se respinge",
+        "B": "cererea de inregistrare se anuleaza",
+        "C": "cererea de inregistrare se perima"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 138,
+      "question_text": "Solicitantul poate renunta la cererea de inregistrare a desenului sau modelului pe baza unei notificari scrise adresate O.S.I.M. - Serviciul de desene si modele:",
+      "options": {
+        "A": "pana la data publicarii cererii de inregistrare",
+        "B": "pana la data luarii unei hotarari cu privire la cererea de inregistrare",
+        "C": "oricand"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 139,
+      "question_text": "Depozitul multiplu este acela care:",
+      "options": {
+        "A": "cuprinde mai multe desene sau modele ale aceleiasi categorii de produse",
+        "B": "cuprinde mai multe cereri de inregistrare",
+        "C": "cuprinde mai multe desene sau modele din categorii diferite de produse"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 140,
+      "question_text": "In materia desenelor si modelelor industriale, prioritatile conventionale sau de expozitie sunt recunoscute daca",
+      "options": {
+        "A": "sunt invocate odata cu depunerea cererii",
+        "B": "daca in termen de 3 luni de la data depunerii cererii se confirma prin acte de prioritate",
+        "C": "numai daca sunt intrunite cumulativ conditiile prevazute la lit. a si b"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 141,
+      "question_text": "In materia desenelor si modelelor industriale, cererile care nu indeplinesc conditiile de depozit multiplu:",
+      "options": {
+        "A": "se divizeaza de catre solicitant",
+        "B": "se examineaza impreuna cu cele care intrunesc conditiile de depozit multiplu",
+        "C": "sunt respinse de catre OSIM"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 142,
+      "question_text": "In materia desenelor si modelelor industriale , la cererea expresa a solicitantului se pot conexa doua sau mai multe cereri de inregistrare, daca :",
+      "options": {
+        "A": "au aceeasi data de depozit national",
+        "B": "au aceiasi solicitanti si autori",
+        "C": "sunt intrunite cumulativ conditiile prevazute la lit. a si b"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 143,
+      "question_text": "In materia desenelor si modelelor industriale",
+      "options": {
+        "A": "orice persoana interesata poate formula opozitie la inregistrarea desenului sau modelului industrial",
+        "B": "opozitia se face in scris si se adreseaza OSIM in termen de 2 luni de la data publicarii modelului sau desenului industrial in BOPI",
+        "C": "ambele varinate de raspuns sunt corecte"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 144,
+      "question_text": "Solutionarea opozitiei poate fi suspendata:",
+      "options": {
+        "A": "cand se bazeaza pe o cerere de inregistrare a unui desen sau model, pana la luarea unei hotarari cu privire la aceasta",
+        "B": "desenul sau modelul opus face obiectul unei alte actiuni civile, pana la solutionarea definitiva a cauzei",
+        "C": "nu poate fi suspendata in nici o situatie din cele de mai sus"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 145,
+      "question_text": "Hotararile privind cererile de inregistrare a desenului sau modelului pot fi contestate, in scris si motivat, la OSIM, in termen de:",
+      "options": {
+        "A": "30 de zile de la comunicare",
+        "B": "15 zile de la comunicare",
+        "C": "nu pot fi contestate"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 146,
+      "question_text": "In materia desenelor si modelelor industriale, hotararile Comisiei de contestatii ramase definitive si irevocabile se publica in Buletinul oficial de proprietate industriala al O.S.I.M., in termen de :",
+      "options": {
+        "A": "60 de zile de la pronuntarea hotararii",
+        "B": "30 de zile de la pronuntarea hotararii",
+        "C": "10 de zile de la pronuntarea hotararii"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "question_number": 147,
+      "question_text": "In materia desenelor si modelelor industriale , licenta presupune:",
+      "options": {
+        "A": "transmiterea numai a drepturilor patrimoniale conferite de certificatul de inregistrare",
+        "B": "licentiatul are obligatia de a exploata dreptul transmis de licentiator",
+        "C": "ambele raspunsuri sunt corecte"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "question_number": 148,
+      "question_text": "In materia desenelor si modelelor industriale, la expirarea perioadei de valabilitate a titlului de protectie:",
+      "options": {
+        "A": "dreptul exclusiv de exploatare poate fi exercitat de catre titular in continuare, daca nu aduce atingere drepturilor unor alte persoane",
+        "B": "desenul sau modelul industrial trece in domeniul public si poate fi utilizat de catre orice persoana fara consimtamantul autorului",
+        "C": "desenul sau modelul industrial nu mai poate fi folosit de catre nici o persoana"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "question_number": 149,
+      "question_text": "Inregistrarea desenului sau modelului poate fi anulata, in tot sau in parte, la cererea oricarei persoane interesate, daca:",
+      "options": {
+        "A": "se constata ca la data inregistrarii cererii nu erau indeplinite conditiile de fond pentru acordarea protectiei",
+        "B": "se constata ca la data inregistrarii cererii nu erau indeplinite conditiile de forma pentru acordarea protectiei",
+        "C": "se constata ca la data inregistrarii cererii nu erau indeplinite conditiile de fond si de forma pentru acordarea protectiei"
+      },
+      "correct_answer": "C"
+    }
+  ]
